@@ -4,11 +4,11 @@
 
 [rewrite_local]
 
-^https?:\/\/commerce-api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info url script-request-header https://raw.githubusercontent.com/InnFen/forown/main/Unlock/Retouch.js
+^https:\/\/lv-biz-api-sinfonlineb\.ulikecam\.com\/commerce\/v1\/subscription\/user_info url script-request-header https://raw.githubusercontent.com/InnFen/forown/main/Unlock/Retouch.js
 
 [mitm] 
 
-hostname = commerce-api.faceu.mobi, api3-misc-lf.retouchpics.com
+hostname = lv-biz-api-sinfonlineb.ulikecam.com
 
 */
 
