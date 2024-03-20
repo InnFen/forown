@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-^https?:\/\/commerce-api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info url script-request-header https://gist.githubusercontent.com/InnFen/afb87d7b63656f84067a63a6a1f0ac21/raw/fd393fa0ba5aec7881e4bf4109e61045fb3ee76e/Retouch.js
+^https?:\/\/commerce-api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info url script-request-header https://raw.githubusercontent.com/InnFen/forown/main/Unlock/Retouch.js
 
 [mitm] 
 
