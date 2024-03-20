@@ -4,7 +4,6 @@ Varlens v4.15.4
             
 [rewrite_local]
 
-# Varlens解锁(2023-02-30)@InnFen
 ^https:\/\/mid\.zineapi\.com\/@varlens\/api\/user\/info\/ url script-response-body https://raw.githubusercontent.com/InnFen/forown/main/Unlock/Varlens.js
 
 [mitm]
