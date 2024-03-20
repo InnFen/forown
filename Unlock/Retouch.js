@@ -1,9 +1,10 @@
 /*
 
-醒图 v7.3.0
+醒图 v7.3.0 [起死回生版]
 
 [rewrite_local]
 
+# 醒图会员(2024-03-20)@InnFen
 ^https:\/\/lv-biz-api-sinfonlineb\.ulikecam\.com\/commerce\/v1\/subscription\/user_info url script-request-header https://raw.githubusercontent.com/InnFen/forown/main/Unlock/Retouch.js
 
 [mitm] 
